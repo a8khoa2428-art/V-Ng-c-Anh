@@ -1,0 +1,6 @@
+{
+  "name": "Đấu Trường Tuần Hoàn - Ôn Tập KHTN 8",
+  "description": "Game tương tác ôn tập giữa kì I Khoa học tự nhiên lớp 8 chủ đề Máu và hệ tuần hoàn của cơ thể bám sát chương trình học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
